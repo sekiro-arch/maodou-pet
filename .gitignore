@@ -1,0 +1,11 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
